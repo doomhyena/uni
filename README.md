@@ -1,8 +1,8 @@
-# 🎓 Óbudai Egyetem - Mérnökinformatika / Engineering Informatics
+# 🎓 Óbudai Egyetem - Mérnökinformatika / Computer Engineering
 
 **HU:** Ez a repó az Óbudai Egyetem Neumann János Informatikai Karán (NIK), a `Mérnökinformatika` szakon készülő feladataimat, házi feladataimat, beadandóimat és kiadott dolgozataimat tartalmazza, a `2026/27`-es tanévtől kezdve.
 
-**EN:** This repository contains the assignments, homework, projects, and papers created during my `Engineering Informatics` studies at Óbuda University, Faculty of Informatics (NIK), starting from the `2026/27` academic year.
+**EN:** This repository contains the assignments, homework, projects, and papers created during my `Computer Engineering ` studies at Óbuda University, Faculty of Informatics (NIK), starting from the `2026/27` academic year.
 
 ---
 
@@ -10,7 +10,7 @@
 
 - **[Óbudai Egyetem - Neumann János Informatikai Kar (NIK)](https://uni-obuda.hu/)** - `2026.09.1.` óta / since `2026.09.`  
   **HU:** `Mérnökinformatika` alapszakon (BSc) tanulok.  
-  **EN:** I am currently studying `Engineering Informatics` (BSc) here.
+  **EN:** I am currently studying `Computer Engineering ` (BSc) here.
 
 ---
 
@@ -24,21 +24,32 @@
 
 ## 📁 Mappastruktúra / Folder structure
 
-**HU:** A pontos tárgyfelosztás még nem ismert, de a repó félévenkénti bontásban épül majd fel, kb. így:  
-**EN:** The exact subject breakdown isn't known yet, but the repo will be organized semester by semester, roughly like this:
+**HU:** A repo a 2026/27-es tanév első félévének tanegységei szerint épül fel. A jegyzetek és a gyakorlati anyagok külön mappákban vannak, tantárgyanként rendezve.
+**EN:** The repository is organized according to the subjects of the first semester of the 2026/27 academic year. Notes and practical materials are separated into different folders, organized by subject.
 
 ```text
-/1-felev/                # Tantárgyak mappánként / Subjects in separate folders
-  /targy-nev/
-    /hazi-feladatok/
-    /beadandok/
-    /zh-felkeszules/     # ZH-khoz jegyzetek, gyakorlófeladatok / Notes and practice for tests
+/1-felev/
+  /Notes/
+    /Az informatika matematikai alapjai/
+    /Fizika/
+    /Matematikai alapismeretek/
+    /Patronálás/
+    /Problémamegoldás programozással/
+    /Tanulásmódszertan/
+  /Practical/
+    /Az informatika matematikai alapjai/
+    /Fizika/
+    /Matematikai alapismeretek/
+    /Patronálás/
+    /Problémamegoldás programozással/
+    /Tanulásmódszertan/
+
 /2-felev/
 ...
 ```
 
-**HU:** Ahogy megvannak a konkrét tárgyak, ez a rész frissül a valós mappanevekkel és rövid leírásokkal.  
-**EN:** Once the actual subjects are known, this section will be updated with real folder names and short descriptions.
+**HU:** A későbbi félévekben ez a rész további tantárgyakkal és konkrét almappákkal bővül majd.  
+**EN:** In later semesters, this section will expand with additional subjects and more specific subfolders.
 
 ---
 
@@ -58,7 +69,13 @@
 
 | Tantárgy / Subject | Tanár neve / Teacher |
 | --- | --- |
-| *(TBD)* | *(TBD)* |
+| Az informatika matematikai alapjai | *(TBD)* |
+| Fizika | *(TBD)* |
+| Matematikai alapismeretek | *(TBD)* |
+| Patronálás | *(TBD)* |
+| Problémamegoldás programozással | *(TBD)* |
+| Tanulásmódszertan | *(TBD)* |
+
 
 ---
 
