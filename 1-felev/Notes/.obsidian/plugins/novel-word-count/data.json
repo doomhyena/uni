@@ -67,7 +67,32 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "Problémamegoldás programozással/01.hét - Programnyelvek alapvető jellemzői, utasítások, változók.md": {
+    "Problémamegoldás programozással/Órai/01.óra.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 43,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 261,
+      "nonWhitespaceCharacterCount": 219,
+      "readingTimeInMinutes": 0.16226415094339622,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1789036924179,
+      "modifiedDate": 1789037079157,
+      "sizeInBytes": 285,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.14333333333333334,
+        "wordCount": 43,
+        "characterCount": 261,
+        "nonWhitespaceCharacterCount": 219
+      }
+    },
+    "Problémamegoldás programozással/Saját/01.hét - Programnyelvek alapvető jellemzői, utasítások, változók.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -84,6 +109,56 @@
       "createdDate": 1788720530279,
       "modifiedDate": 1788720880019,
       "sizeInBytes": 498,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.18333333333333332,
+        "wordCount": 55,
+        "characterCount": 482,
+        "nonWhitespaceCharacterCount": 405
+      }
+    },
+    "Fizika/01.óra.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 80,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.26666666666666666,
+      "characterCount": 524,
+      "nonWhitespaceCharacterCount": 442,
+      "readingTimeInMinutes": 0.3018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1789028585267,
+      "modifiedDate": 1789029614639,
+      "sizeInBytes": 572,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.26666666666666666,
+        "wordCount": 80,
+        "characterCount": 524,
+        "nonWhitespaceCharacterCount": 442
+      }
+    },
+    "Tanulásmódszertan/01.óra.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 35,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11666666666666667,
+      "characterCount": 302,
+      "nonWhitespaceCharacterCount": 268,
+      "readingTimeInMinutes": 0.1320754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1789049958690,
+      "modifiedDate": 1789050496037,
+      "sizeInBytes": 339,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
