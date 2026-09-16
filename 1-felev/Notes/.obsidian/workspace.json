@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematikai alapismeretek/Gyakorlat/02.óra.md",
-                "mode": "source",
+                "file": "Az informatika matematikai alapjai/Elmélet/IMA – 1. előadás jegyzet.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.óra"
+              "title": "IMA – 1. előadás jegyzet"
             }
           }
         ]
@@ -216,9 +216,14 @@
   },
   "active": "daf4ce17d9a90c21",
   "lastOpenFiles": [
-    "Tanulásmódszertan/01.óra.md",
+    "Az informatika matematikai alapjai/Gyakorlat/02.óra.md",
+    "Az informatika matematikai alapjai/Gyakorlat/01.óra - számelmélet.md",
+    "Az informatika matematikai alapjai/Elmélet/IMA – 1. előadás jegyzet.md",
+    "Az informatika matematikai alapjai/Névtelen.md",
+    "Az informatika matematikai alapjai/Elmélet",
+    "Az informatika matematikai alapjai/Gyakorlat",
     "Matematikai alapismeretek/Gyakorlat/02.óra.md",
-    "Az informatika matematikai alapjai/01.óra - számelmélet.md",
+    "Tanulásmódszertan/01.óra.md",
     "Matematikai alapismeretek/Gyakorlat",
     "Problémamegoldás programozással/Órai/01.óra.md",
     "Fizika/01.óra.md",
@@ -234,8 +239,6 @@
     "Bláthy/halozatok-II/02.Modul/08..rész/8.4 DHCPv6-kiszolgáló konfigurálása/8.4.8 DHCPv6-közvetítő ellenőrzése.md.tmp.7436.88576d73a6cb",
     "Bláthy/halozatok-II/02.Modul/08..rész/8.4 DHCPv6-kiszolgáló konfigurálása/8.4.4 Állapottartó DHCPv6-kiszolgáló konfigurálása.md.tmp.7436.839950a8a6dd",
     "Bláthy/halozatok-II/02.Modul/08..rész/8.4 DHCPv6-kiszolgáló konfigurálása/8.4.3 Állapotmentes DHCPv6-kliens konfigurálása.md.tmp.7436.e477bcceea77",
-    "Bláthy/halozatok-II/02.Modul/08..rész/8.4 DHCPv6-kiszolgáló konfigurálása/8.4.2 Állapotmentes DHCPv6-szerver konfigurálása.md.tmp.7436.5fc48d3cae7b",
-    "Bláthy/halozatok-II/02.Modul/08..rész/8.4 DHCPv6-kiszolgáló konfigurálása/8.4.1 DHCPv6 router szerepek.md.tmp.7436.12f053524802",
     "Bláthy/halozatok-II/02.Modul/08..rész/8.4 DHCPv6-kiszolgáló konfigurálása/8.4.6 DHCPv6-kiszolgáló ellenőrzésének parancsai.md",
     "Bláthy/halozatok-II/02.Modul/08..rész/8.4 DHCPv6-kiszolgáló konfigurálása/8.4.5 Állapottartó DHCPv6-kliens konfigurálása.md",
     "Bláthy/halozatok-II/02.Modul/08..rész/8.4 DHCPv6-kiszolgáló konfigurálása/8.4.4 Állapottartó DHCPv6-kiszolgáló konfigurálása.md",
@@ -248,9 +251,6 @@
     "Bláthy/halozatok-II/02.Modul/08..rész/8.3 DHCPv6/8.3.3 Állapotmentes DHCPv6 engedélyezése egy interfészen.md",
     "Bláthy/halozatok-II/02.Modul/08..rész/8.3 DHCPv6/8.3.1 A DHCPv6 működésének lépései.md",
     "Bláthy/halozatok-II/02.Modul/08..rész/8.2 SLAAC/8.2.6 Duplikált cím felderítés.md",
-    "Bláthy/halozatok-II/02.Modul/08..rész/8.2 SLAAC/8.2.5 Interfész azonosító előállításának folyamata az állomáson.md",
-    "Bláthy/halozatok-II/02.Modul/08..rész/8.2 SLAAC/8.2.4 ICMPv6 RS üzenetek.md",
-    "Bláthy/halozatok-II/02.Modul/08..rész/8.2 SLAAC/8.2.3 A SLAAC kizárólagos használata.md",
-    "Bláthy/halozatok-II/02.Modul/08..rész/8.2 SLAAC/8.2.2 A SLAAC engedélyezése.md"
+    "Bláthy/halozatok-II/02.Modul/08..rész/8.2 SLAAC/8.2.5 Interfész azonosító előállításának folyamata az állomáson.md"
   ]
 }
