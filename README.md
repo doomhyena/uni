@@ -69,12 +69,12 @@
 
 | Tantárgy / Subject | Tanár neve / Teacher |
 | --- | --- |
-| Az informatika matematikai alapjai | *(TBD)* |
-| Fizika | *(TBD)* |
-| Matematikai alapismeretek | *(TBD)* |
-| Patronálás | *(TBD)* |
-| Problémamegoldás programozással | *(TBD)* |
-| Tanulásmódszertan | *(TBD)* |
+| Az informatika matematikai alapjai | Dr. Szőke Magdolna, Kovács Olivér Zsolt |
+| Fizika | Dr. Vizvári Zoltán Ákos, Piricz Tamás |
+| Matematikai alapismeretek | Virágh Eszter, Kovács Olivér Zsolt |
+| Patronálás | Dr. Nagy Enikő |
+| Problémamegoldás programozással | Kiss Dániel;Dr. Vámossy Zoltán Imre, Schlemmer Gábor László |
+| Tanulásmódszertan | Dr. Nagy Enikő, Zaletnyik Péter Tibor |
 
 
 ---
