@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Az informatika matematikai alapjai/Elmélet/IMA – 1. előadás jegyzet.md",
+                "file": "Problémamegoldás programozással/Órai/02.hét - Ciklusok használata, véletlen számok, matema- tikai függvények.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IMA – 1. előadás jegyzet"
+              "title": "02.hét - Ciklusok használata, véletlen számok, matema- tikai függvények"
             }
           }
         ]
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bbf6e69959fe4876",
@@ -216,9 +217,9 @@
   },
   "active": "daf4ce17d9a90c21",
   "lastOpenFiles": [
+    "Az informatika matematikai alapjai/Elmélet/IMA – 1. előadás jegyzet.md",
     "Az informatika matematikai alapjai/Gyakorlat/02.óra.md",
     "Az informatika matematikai alapjai/Gyakorlat/01.óra - számelmélet.md",
-    "Az informatika matematikai alapjai/Elmélet/IMA – 1. előadás jegyzet.md",
     "Az informatika matematikai alapjai/Névtelen.md",
     "Az informatika matematikai alapjai/Elmélet",
     "Az informatika matematikai alapjai/Gyakorlat",

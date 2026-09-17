@@ -92,31 +92,6 @@
         "nonWhitespaceCharacterCount": 268
       }
     },
-    "Matematikai alapismeretek/Gyakorlat/02.óra.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 51,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.17,
-      "characterCount": 336,
-      "nonWhitespaceCharacterCount": 237,
-      "readingTimeInMinutes": 0.19245283018867926,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1789394874052,
-      "modifiedDate": 1789399922666,
-      "sizeInBytes": 343,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.17,
-        "wordCount": 51,
-        "characterCount": 336,
-        "nonWhitespaceCharacterCount": 237
-      }
-    },
     "Problémamegoldás programozással/Órai/01.óra.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -192,29 +167,29 @@
         "nonWhitespaceCharacterCount": 442
       }
     },
-    "Az informatika matematikai alapjai/Elmélet/IMA – 1. előadás jegyzet.md": {
+    "Matematikai alapismeretek/Gyakorlat/02.óra.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 942,
+      "wordCount": 51,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.14,
-      "characterCount": 7422,
-      "nonWhitespaceCharacterCount": 6022,
-      "readingTimeInMinutes": 3.5547169811320756,
+      "pageCount": 0.17,
+      "characterCount": 336,
+      "nonWhitespaceCharacterCount": 237,
+      "readingTimeInMinutes": 0.19245283018867926,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1789570258016,
-      "modifiedDate": 1789571079653,
-      "sizeInBytes": 8215,
+      "createdDate": 1789394874052,
+      "modifiedDate": 1789399922666,
+      "sizeInBytes": 343,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
+        "noteCount": 1,
+        "pageCount": 0.17,
+        "wordCount": 51,
+        "characterCount": 336,
+        "nonWhitespaceCharacterCount": 237
       }
     },
     "Az informatika matematikai alapjai/Gyakorlat/02.óra.md": {
@@ -234,6 +209,56 @@
       "createdDate": 1789565033514,
       "modifiedDate": 1789570339214,
       "sizeInBytes": 95,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.06,
+        "wordCount": 18,
+        "characterCount": 91,
+        "nonWhitespaceCharacterCount": 65
+      }
+    },
+    "Az informatika matematikai alapjai/Elmélet/IMA – 1. előadás jegyzet.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 942,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.14,
+      "characterCount": 7422,
+      "nonWhitespaceCharacterCount": 6022,
+      "readingTimeInMinutes": 3.5547169811320756,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1789570258016,
+      "modifiedDate": 1789571079653,
+      "sizeInBytes": 8215,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.14,
+        "wordCount": 942,
+        "characterCount": 7422,
+        "nonWhitespaceCharacterCount": 6022
+      }
+    },
+    "Problémamegoldás programozással/Órai/02.hét - Ciklusok használata, véletlen számok, matema- tikai függvények.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 415,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.3833333333333333,
+      "characterCount": 3458,
+      "nonWhitespaceCharacterCount": 2898,
+      "readingTimeInMinutes": 1.5660377358490567,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1789645124637,
+      "modifiedDate": 1789645246281,
+      "sizeInBytes": 3771,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
