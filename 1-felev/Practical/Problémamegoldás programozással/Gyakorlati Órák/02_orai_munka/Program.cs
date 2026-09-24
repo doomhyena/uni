@@ -110,7 +110,7 @@ namespace _02_orai_munka
                 if (roll == 6)
                 {
                     Console.WriteLine($"A(z) {current + 1}. játékos kezd (6-ost dobott)");
-                    break;
+                    
                 }
                 current = (current + 1) % N;
             }
@@ -135,7 +135,7 @@ namespace _02_orai_munka
                 Console.Write("Tipp: ");
                 if (!int.TryParse(Console.ReadLine(), out int g)) continue;
                 tries++;
-                if (g == secret) { Console.WriteLine($"Correct in {tries} tries"); break; }
+                if (g == secret) { Console.WriteLine($"Correct in {tries} tries");  }
                 Console.WriteLine(g < secret ? "Nagyobb" : "Kisebb");
             }
         }
@@ -360,48 +360,21 @@ namespace _02_orai_munka
 
         static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.UTF8;
-            Console.WriteLine("Feladatok listája:");
-            Console.WriteLine("1 - Kiírja a 0..N számokat és a párosakat");
-            Console.WriteLine("2 - Jelszó ellenőrzés (3 próbálkozás)");
-            Console.WriteLine("3 - Véletlenszám keresés megadott célig (1-1000)");
-            Console.WriteLine("4 - Körönként dobás játékosok között, aki 6-ot dob kezd");
-            Console.WriteLine("5 - Számkitaláló játék (nagyobb/kisebb)");
-            Console.WriteLine("6 - Páros/páratlan, osztók száma, prím vizsgálat");
-            Console.WriteLine("7 - Faktoriális számítás (ellenőrzi a túlcsordulást)");
-            Console.WriteLine("8 - Szorzótábla 1..10");
-            Console.WriteLine("9 - Visszaszámláló másodpercekben");
-            Console.WriteLine("10 - Unsigned int bájtjainak bináris megjelenítése");
-            Console.WriteLine("11 - Egyszerű nyerőgép");
-            Console.WriteLine("12 - Szimbólumos nyerőgép");
-            Console.WriteLine("13 - Árfolyam szimuláció");
-            Console.WriteLine();
-            while (true)
-            {
-                Console.Write("Válassz feladatot (1-13, 0 kilépés): ");
-                if (!int.TryParse(Console.ReadLine(), out int t)) continue;
-                if (t == 0) break;
-
-                switch (t)
-                {
-                    case 1: Task1(); break;
-                    case 2: Task2(); break;
-                    case 3: Task3(); break;
-                    case 4: Task4(); break;
-                    case 5: Task5(); break;
-                    case 6: Task6(); break;
-                    case 7: Task7(); break;
-                    case 8: Task8(); break;
-                    case 9: Task9(); break;
-                    case 10: Task10(); break;
-                    case 11: Task11(); break;
-                    case 12: Task12(); break;
-                    case 13: Task13(); break;
-                    default: Console.WriteLine("Érvénytelen választás"); break;
-                }
-
-                Console.WriteLine();
-            }
+           
+            Task1(); 
+            Task2(); 
+            Task3(); 
+            Task4(); 
+            Task5(); 
+            Task6(); 
+            Task7(); 
+            Task8(); 
+            Task9(); 
+            Task10(); 
+            Task11(); 
+            Task12(); 
+            Task13();
+            Console.ReadKey();
         }
     }
 }
