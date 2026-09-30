@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problémamegoldás programozással/2. Témakör - Ciklusok használata, véletlen számok, matematikai függvények.md",
+                "file": "Fizika/01.A fizika alapfogalmai és informatikai kapcsolatai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Témakör - Ciklusok használata, véletlen számok, matematikai függvények"
+              "title": "01.A fizika alapfogalmai és informatikai kapcsolatai"
             }
           }
         ]
@@ -214,10 +214,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cd09bfc6eda7bc1a",
+  "active": "daf4ce17d9a90c21",
   "lastOpenFiles": [
-    "Problémamegoldás programozással/3. Témakör - Tömbök és listák.md",
     "Problémamegoldás programozással/2. Témakör - Ciklusok használata, véletlen számok, matematikai függvények.md",
+    "Problémamegoldás programozással/3. Témakör - Tömbök és listák.md",
     "Problémamegoldás programozással/1. Témakör - Utasítások, változók, programvezérlés elágazással.md",
     "Az informatika matematikai alapjai/Elmélet/IMA – 1. előadás jegyzet.md",
     "Az informatika matematikai alapjai/Gyakorlat/02.óra.md",
@@ -228,7 +228,7 @@
     "Matematikai alapismeretek/Gyakorlat/02.óra.md",
     "Tanulásmódszertan/01.óra.md",
     "Matematikai alapismeretek/Gyakorlat",
-    "Fizika/01.óra.md",
+    "Fizika/01.A fizika alapfogalmai és informatikai kapcsolatai.md",
     "Problémamegoldás programozással/Órai",
     "Problémamegoldás programozással/Saját",
     "Problémamegoldás programozással/Saját/01.hét - Programnyelvek alapvető jellemzői, utasítások, változók.md",

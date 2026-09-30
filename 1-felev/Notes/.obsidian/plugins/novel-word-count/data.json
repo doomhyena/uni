@@ -92,31 +92,6 @@
         "nonWhitespaceCharacterCount": 268
       }
     },
-    "Fizika/01.óra.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 80,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.26666666666666666,
-      "characterCount": 524,
-      "nonWhitespaceCharacterCount": 442,
-      "readingTimeInMinutes": 0.3018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1789028585267,
-      "modifiedDate": 1789029614639,
-      "sizeInBytes": 572,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.26666666666666666,
-        "wordCount": 80,
-        "characterCount": 524,
-        "nonWhitespaceCharacterCount": 442
-      }
-    },
     "Problémamegoldás programozással/1. Témakör - Utasítások, változók, programvezérlés elágazással.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -184,6 +159,31 @@
       "createdDate": 1790798425582,
       "modifiedDate": 1790798553589,
       "sizeInBytes": 4705,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Fizika/01.A fizika alapfogalmai és informatikai kapcsolatai.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4128,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 13.76,
+      "characterCount": 39099,
+      "nonWhitespaceCharacterCount": 33963,
+      "readingTimeInMinutes": 15.577358490566038,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1789028585267,
+      "modifiedDate": 1790799262887,
+      "sizeInBytes": 42208,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
