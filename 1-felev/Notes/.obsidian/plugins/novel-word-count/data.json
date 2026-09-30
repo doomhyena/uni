@@ -216,6 +216,31 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
       }
+    },
+    "Fizika/Dinamika és Megmaradási Törvények.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1548,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.16,
+      "characterCount": 14454,
+      "nonWhitespaceCharacterCount": 12136,
+      "readingTimeInMinutes": 5.841509433962264,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1790799627505,
+      "modifiedDate": 1790799659946,
+      "sizeInBytes": 15358,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
     }
   }
 }

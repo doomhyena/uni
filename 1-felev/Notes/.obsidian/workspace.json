@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizika/03. Kinematika.md",
+                "file": "Fizika/Dinamika és Megmaradási Törvények.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. Kinematika"
+              "title": "Dinamika és Megmaradási Törvények"
             }
           }
         ]
@@ -216,8 +216,9 @@
   },
   "active": "daf4ce17d9a90c21",
   "lastOpenFiles": [
-    "Fizika/02.A matematikai fizika alapjai.md",
     "Fizika/03. Kinematika.md",
+    "Fizika/Dinamika és Megmaradási Törvények.md",
+    "Fizika/02.A matematikai fizika alapjai.md",
     "Fizika/01.A fizika alapfogalmai és informatikai kapcsolatai.md",
     "Problémamegoldás programozással/2. Témakör - Ciklusok használata, véletlen számok, matematikai függvények.md",
     "Problémamegoldás programozással/3. Témakör - Tömbök és listák.md",
@@ -250,7 +251,6 @@
     "Bláthy/halozatok-II/02.Modul/08..rész/8.4 DHCPv6-kiszolgáló konfigurálása/8.4.2 Állapotmentes DHCPv6-szerver konfigurálása.md",
     "Bláthy/halozatok-II/02.Modul/08..rész/8.3 DHCPv6/8.3.2 Az állapotmentes DHCPv6 működése.md",
     "Bláthy/halozatok-II/02.Modul/08..rész/8.4 DHCPv6-kiszolgáló konfigurálása/8.4.1 DHCPv6 router szerepek.md",
-    "Bláthy/halozatok-II/02.Modul/08..rész/8.3 DHCPv6/8.3.5 Állapottartó DHCPv6 engedélyezése interfészen.md",
-    "Bláthy/halozatok-II/02.Modul/08..rész/8.3 DHCPv6/8.3.4 Az állapottartó DHCPv6 működése.md"
+    "Bláthy/halozatok-II/02.Modul/08..rész/8.3 DHCPv6/8.3.5 Állapottartó DHCPv6 engedélyezése interfészen.md"
   ]
 }
