@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problémamegoldás programozással/Órai/02.hét - Ciklusok használata, véletlen számok, matema- tikai függvények.md",
-                "mode": "preview",
+                "file": "Problémamegoldás programozással/2. Témakör - Ciklusok használata, véletlen számok, matematikai függvények.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.hét - Ciklusok használata, véletlen számok, matema- tikai függvények"
+              "title": "2. Témakör - Ciklusok használata, véletlen számok, matematikai függvények"
             }
           }
         ]
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bbf6e69959fe4876",
@@ -215,8 +214,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "daf4ce17d9a90c21",
+  "active": "cd09bfc6eda7bc1a",
   "lastOpenFiles": [
+    "Problémamegoldás programozással/3. Témakör - Tömbök és listák.md",
+    "Problémamegoldás programozással/2. Témakör - Ciklusok használata, véletlen számok, matematikai függvények.md",
+    "Problémamegoldás programozással/1. Témakör - Utasítások, változók, programvezérlés elágazással.md",
     "Az informatika matematikai alapjai/Elmélet/IMA – 1. előadás jegyzet.md",
     "Az informatika matematikai alapjai/Gyakorlat/02.óra.md",
     "Az informatika matematikai alapjai/Gyakorlat/01.óra - számelmélet.md",
@@ -226,7 +228,6 @@
     "Matematikai alapismeretek/Gyakorlat/02.óra.md",
     "Tanulásmódszertan/01.óra.md",
     "Matematikai alapismeretek/Gyakorlat",
-    "Problémamegoldás programozással/Órai/01.óra.md",
     "Fizika/01.óra.md",
     "Problémamegoldás programozással/Órai",
     "Problémamegoldás programozással/Saját",
@@ -250,8 +251,6 @@
     "Bláthy/halozatok-II/02.Modul/08..rész/8.3 DHCPv6/8.3.5 Állapottartó DHCPv6 engedélyezése interfészen.md",
     "Bláthy/halozatok-II/02.Modul/08..rész/8.3 DHCPv6/8.3.4 Az állapottartó DHCPv6 működése.md",
     "Bláthy/halozatok-II/02.Modul/08..rész/8.3 DHCPv6/8.3.3 Állapotmentes DHCPv6 engedélyezése egy interfészen.md",
-    "Bláthy/halozatok-II/02.Modul/08..rész/8.3 DHCPv6/8.3.1 A DHCPv6 működésének lépései.md",
-    "Bláthy/halozatok-II/02.Modul/08..rész/8.2 SLAAC/8.2.6 Duplikált cím felderítés.md",
-    "Bláthy/halozatok-II/02.Modul/08..rész/8.2 SLAAC/8.2.5 Interfész azonosító előállításának folyamata az állomáson.md"
+    "Bláthy/halozatok-II/02.Modul/08..rész/8.3 DHCPv6/8.3.1 A DHCPv6 működésének lépései.md"
   ]
 }
