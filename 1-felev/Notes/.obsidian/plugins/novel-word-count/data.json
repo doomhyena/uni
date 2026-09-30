@@ -191,6 +191,31 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
       }
+    },
+    "Fizika/03. Kinematika.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1237,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.123333333333333,
+      "characterCount": 11420,
+      "nonWhitespaceCharacterCount": 9860,
+      "readingTimeInMinutes": 4.667924528301887,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1790799508660,
+      "modifiedDate": 1790799535329,
+      "sizeInBytes": 12327,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
     }
   }
 }
