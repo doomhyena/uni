@@ -142,29 +142,104 @@
         "nonWhitespaceCharacterCount": 3554
       }
     },
-    "Fizika/Elmélet/03. Kinematika.md": {
+    "Névtelen.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1237,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.123333333333333,
-      "characterCount": 11420,
-      "nonWhitespaceCharacterCount": 9860,
-      "readingTimeInMinutes": 4.667924528301887,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1790799508660,
-      "modifiedDate": 1790799535329,
-      "sizeInBytes": 12327,
+      "createdDate": 1794843585123,
+      "modifiedDate": 1794843585123,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 4.123333333333333,
-        "wordCount": 1237,
-        "characterCount": 11420,
-        "nonWhitespaceCharacterCount": 9860
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Matematikai alapismeretek/Drawing 2026-11-16 15.13.07.excalidraw.md": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1794838387719,
+      "modifiedDate": 1794849944397,
+      "sizeInBytes": 870711,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Matematikai alapismeretek/8. témakör.md": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1794751813953,
+      "modifiedDate": 1794752126096,
+      "sizeInBytes": 54721,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Fizika/Gyakorlat/Rezések és hullámok.md": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1793700140393,
+      "modifiedDate": 1794750482133,
+      "sizeInBytes": 211279,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "Fizika/Elmélet/04.Dinamika és Megmaradási Törvények.md": {
@@ -190,6 +265,31 @@
         "wordCount": 1548,
         "characterCount": 14454,
         "nonWhitespaceCharacterCount": 12136
+      }
+    },
+    "Fizika/Elmélet/03. Kinematika.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1237,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.123333333333333,
+      "characterCount": 11420,
+      "nonWhitespaceCharacterCount": 9860,
+      "readingTimeInMinutes": 4.667924528301887,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1790799508660,
+      "modifiedDate": 1790799535329,
+      "sizeInBytes": 12327,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.123333333333333,
+        "wordCount": 1237,
+        "characterCount": 11420,
+        "nonWhitespaceCharacterCount": 9860
       }
     },
     "Fizika/Elmélet/02.A matematikai fizika alapjai.md": {
@@ -240,56 +340,6 @@
         "wordCount": 4128,
         "characterCount": 39099,
         "nonWhitespaceCharacterCount": 33963
-      }
-    },
-    "Fizika/Gyakorlat/Rezések és hullámok.md": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1793700140393,
-      "modifiedDate": 1794750482133,
-      "sizeInBytes": 211279,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Matematikai alapismeretek/8. témakör.md": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1794751813953,
-      "modifiedDate": 1794752126096,
-      "sizeInBytes": 54721,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
       }
     }
   }
