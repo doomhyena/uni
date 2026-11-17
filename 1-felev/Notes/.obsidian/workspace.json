@@ -8,29 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ee280ea4ad6ba31",
+            "id": "fb23a43dabff9d93",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Matematikai alapismeretek/Drawing 2026-11-16 15.13.07.excalidraw.md"
+                "file": "Matematikai alapismeretek/Elmélet/11.hét.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-16 15.13.07.excalidraw"
-            }
-          },
-          {
-            "id": "97f6351d7dd2a349",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Névtelen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Névtelen"
+              "title": "11.hét"
             }
           }
         ]
@@ -102,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bbf6e69959fe4876",
@@ -227,10 +212,13 @@
       "excalidraw-cn:Create New Excalidraw File": false
     }
   },
-  "active": "7ee280ea4ad6ba31",
+  "active": "cd09bfc6eda7bc1a",
   "lastOpenFiles": [
+    "Matematikai alapismeretek/Gyakorlat/08.témakör.md",
+    "Matematikai alapismeretek/Elmélet/11.hét.md",
+    "Matematikai alapismeretek/Gyakorlat",
+    "Matematikai alapismeretek/Elmélet",
     "Névtelen.md",
-    "Matematikai alapismeretek/Drawing 2026-11-16 15.13.07.excalidraw.md",
     "Matematikai alapismeretek/8. témakör.md",
     "Matematikai alapismeretek/Névtelen.md",
     "Matematikai alapismeretek/Névtelen.canvas",
@@ -260,11 +248,8 @@
     "Problémamegoldás programozással/Saját/01.hét - Programnyelvek alapvető jellemzői, utasítások, változók.md",
     "Egyetemi matek alapozó/00. Halmazok, metszet, unió, részhalmaz.md",
     "Egyetemi matek alapozó",
-    "Bláthy/Link/Hálózatok II..md.tmp.7436.7f7c2645cbc3",
     "Bláthy/Link/Hálózatok II..md",
     "Bláthy/halozatok-II/02.Modul/08..rész/8.4 DHCPv6-kiszolgáló konfigurálása/8.4.8 DHCPv6-közvetítő ellenőrzése.md",
-    "Bláthy/halozatok-II/02.Modul/08..rész/8.4 DHCPv6-kiszolgáló konfigurálása/8.4.7 DHCPv6-közvetítő beállítása.md",
-    "Bláthy/halozatok-II/02.Modul/08..rész/8.4 DHCPv6-kiszolgáló konfigurálása/8.4.8 DHCPv6-közvetítő ellenőrzése.md.tmp.7436.88576d73a6cb",
-    "Bláthy/halozatok-II/02.Modul/08..rész/8.4 DHCPv6-kiszolgáló konfigurálása/8.4.6 DHCPv6-kiszolgáló ellenőrzésének parancsai.md"
+    "Bláthy/halozatok-II/02.Modul/08..rész/8.4 DHCPv6-kiszolgáló konfigurálása/8.4.7 DHCPv6-közvetítő beállítása.md"
   ]
 }
