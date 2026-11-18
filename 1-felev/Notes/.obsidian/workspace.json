@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Matematikai alapismeretek/Elmélet/11.hét.md"
+                "file": "Matematikai alapismeretek/Elmélet/11-het.md"
               },
               "icon": "excalidraw-icon",
-              "title": "11.hét"
+              "title": "11-het"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bbf6e69959fe4876",
@@ -212,10 +213,10 @@
       "excalidraw-cn:Create New Excalidraw File": false
     }
   },
-  "active": "cd09bfc6eda7bc1a",
+  "active": "fb23a43dabff9d93",
   "lastOpenFiles": [
+    "Matematikai alapismeretek/Elmélet/11-het.md",
     "Matematikai alapismeretek/Gyakorlat/08.témakör.md",
-    "Matematikai alapismeretek/Elmélet/11.hét.md",
     "Matematikai alapismeretek/Gyakorlat",
     "Matematikai alapismeretek/Elmélet",
     "Névtelen.md",
